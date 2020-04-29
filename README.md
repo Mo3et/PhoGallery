@@ -3,7 +3,7 @@ Private PhoGallery
 
 ##### 获取图床外链的方法
 
-> **将链接中的blob改为raw即可获得外链**
+> **将链接中的blob改为raw即可获得外链**  
 **
 例  https://github.com/Mo3et/PhoGallery/`blob`/master/image-20200429134721855.png  
 修改为 https://github.com/Mo3et/PhoGallery/`raw`/master/image-20200429134721855.png  
