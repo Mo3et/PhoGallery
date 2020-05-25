@@ -33,12 +33,13 @@ git push -u origin master   （注：此操作目的是把本地仓库push到git
 ### 9.Markdown 图片
 Markdown 图片语法格式如下：
 
+```
 ![alt 属性文本](图片地址)
 
 ![alt 属性文本](图片地址 "可选标题")
-
-开头一个感叹号 !  
-接着一个方括号，里面放上图片的替代文字  
+```
+>开头一个感叹号 !  
+接着一个方括号，里面放上图片的替代文字    
 接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 属性的文字。
 
 ![My github image](https://avatars1.githubusercontent.com/u/34803812?s=460&v=4 "头像")
@@ -54,8 +55,4 @@ Markdown 还没有办法指定图片的高度与宽度，
 
 <img src="https://avatars1.githubusercontent.com/u/34803812?s=460&v=4" width="50%">
 
-```
-![alt 属性文本](图片地址)
 
-![alt 属性文本](图片地址 "可选标题")
-```
